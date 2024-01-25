@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App de Imagrecimento ADM</string>
+
+
+    <string name="titulo_principal">ROTINA IDEAL DE HOJE!!</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_rotina">Escreva a Rotina</string>
+    <string name="hint_data">Data de publicação</string>
+    <string name="hint_autor">Nome do Autor</string>
+    <string name="txt_button_publicar">Publicar Rotina</string>
+
+
+</resources>

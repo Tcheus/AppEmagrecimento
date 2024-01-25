@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889303520738",
+    "project_id": "app-de-emagrecimento",
+    "storage_bucket": "app-de-emagrecimento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889303520738:android:fd58a034ad444349a255bb",
+        "android_client_info": {
+          "package_name": "com.example.appdeimagrecimentoadm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqo5W6ERlMBo3cR4iIRSFwhyO8HMk2CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
